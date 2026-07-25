@@ -1,0 +1,7 @@
+interface:
+  display_name: "科學研究拷問進化版"
+  short_description: "逐輪訪談並建立可追溯的研究術語、決策與科展文件"
+  default_prompt: "Use $science-research-with-docs to guide a science-fair project while recording its research language and pivotal decisions."
+
+policy:
+  allow_implicit_invocation: false
